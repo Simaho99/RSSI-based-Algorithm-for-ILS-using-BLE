@@ -1,0 +1,2311 @@
+
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3099 m, 0.5399 m
+Estimated Location  Developed: Weighted          0.2665 m, 0.1470 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.5724 m
+Percentage: Filtered (w.r.t Literature)          -13.7337%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7321 m, 1.4043 m
+Estimated Location  Developed: Weighted          2.3385 m, 0.9675 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4233 m
+Percentage: Filtered (w.r.t Literature)          0.3892%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5414 m, 2.3224 m
+Estimated Location  Developed: Weighted          3.4235 m, 0.9204 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.3228 m
+Percentage: Filtered (w.r.t Literature)          -3.5280%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.4044 m, 0.5017 m
+Estimated Location  Developed: Weighted          0.3474 m, 0.1566 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.5108 m
+Percentage: Filtered (w.r.t Literature)          -1.4867%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.6836 m, 1.3596 m
+Estimated Location  Developed: Weighted          2.2787 m, 0.9701 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.3719 m
+Percentage: Filtered (w.r.t Literature)          3.9857%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5086 m, 2.2815 m
+Estimated Location  Developed: Weighted          3.0580 m, 0.7999 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.2815 m
+Percentage: Filtered (w.r.t Literature)          -1.6880%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.2461 m, 0.4516 m
+Estimated Location  Developed: Weighted          0.2900 m, 0.1515 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.5180 m
+Percentage: Filtered (w.r.t Literature)          -2.9316%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.8688 m, 1.4664 m
+Estimated Location  Developed: Weighted          2.3363 m, 0.9086 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.5120 m
+Percentage: Filtered (w.r.t Literature)          -5.8188%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5551 m, 2.2070 m
+Estimated Location  Developed: Weighted          3.3499 m, 0.9095 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.2076 m
+Percentage: Filtered (w.r.t Literature)          1.6029%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3099 m, 0.5399 m
+Estimated Location  Developed: Weighted          0.2665 m, 0.1470 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.5724 m
+Percentage: Filtered (w.r.t Literature)          -13.7337%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7321 m, 1.4043 m
+Estimated Location  Developed: Weighted          2.3385 m, 0.9675 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4233 m
+Percentage: Filtered (w.r.t Literature)          0.3892%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5414 m, 2.3224 m
+Estimated Location  Developed: Weighted          3.4235 m, 0.9204 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.3228 m
+Percentage: Filtered (w.r.t Literature)          -3.5280%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.1579 m
+Error: Developed (Filtered)                      0.1693 m
+Percentage: Filtered (w.r.t Literature)          -7.2289%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                0.2787 m
+Error: Developed (Filtered)                      0.3123 m
+Percentage: Filtered (w.r.t Literature)          -12.0590%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                0.2577 m
+Error: Developed (Filtered)                      0.3548 m
+Percentage: Filtered (w.r.t Literature)          -37.6881%
+Real position with 1m Distance                   0.6667 m, 0.3333 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.3541 m
+Error: Developed (Filtered)                      0.2957 m
+Percentage: Filtered (w.r.t Literature)          16.5030%
+Real position with 3m Distance                   2.0000 m, 1.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                0.4695 m
+Error: Developed (Filtered)                      0.4456 m
+Percentage: Filtered (w.r.t Literature)          5.1065%
+Real position with 5m Distance                   3.3333 m, 1.6667 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                0.9937 m
+Error: Developed (Filtered)                      0.9549 m
+Percentage: Filtered (w.r.t Literature)          3.9121%
+Real position with 1m Distance                   0.6667 m, 0.3333 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.3541 m
+Error: Developed (Filtered)                      0.2957 m
+Percentage: Filtered (w.r.t Literature)          16.5030%
+Real position with 3m Distance                   2.0000 m, 1.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                0.4695 m
+Error: Developed (Filtered)                      0.4456 m
+Percentage: Filtered (w.r.t Literature)          5.1065%
+Real position with 5m Distance                   3.3333 m, 1.6667 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                0.9937 m
+Error: Developed (Filtered)                      0.9549 m
+Percentage: Filtered (w.r.t Literature)          3.9121%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.0000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.5033 m
+Error: Developed (Filtered)                      0.4048 m
+Percentage: Filtered (w.r.t Literature)          19.5707%
+Real position with 3m Distance                   1.5000 m, 0.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                1.4289 m
+Error: Developed (Filtered)                      1.4258 m
+Percentage: Filtered (w.r.t Literature)          0.2123%
+Real position with 5m Distance                   2.5000 m, 0.0000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                2.2436 m
+Error: Developed (Filtered)                      2.1453 m
+Percentage: Filtered (w.r.t Literature)          4.3807%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.1579 m
+Error: Developed (Filtered)                      0.1693 m
+Percentage: Filtered (w.r.t Literature)          -7.2289%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                0.2787 m
+Error: Developed (Filtered)                      0.3123 m
+Percentage: Filtered (w.r.t Literature)          -12.0590%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                0.2577 m
+Error: Developed (Filtered)                      0.3548 m
+Percentage: Filtered (w.r.t Literature)          -37.6881%
+Real position with 1m Distance                   0.6667 m, 0.3333 m
+Estimated Location Literature:                   0.3436 m, 0.4784 m
+Estimated Location  Developed: Filtered          0.3755 m, 0.3852 m
+Estimated Location  Developed: Weighted          0.3783 m, 0.1596 m
+Error: Literature                                0.3541 m
+Error: Developed (Filtered)                      0.2957 m
+Percentage: Filtered (w.r.t Literature)          16.5030%
+Real position with 3m Distance                   2.0000 m, 1.0000 m
+Estimated Location Literature:                   1.7619 m, 1.4047 m
+Estimated Location  Developed: Filtered          1.7942 m, 1.3952 m
+Estimated Location  Developed: Weighted          2.2754 m, 0.9118 m
+Error: Literature                                0.4695 m
+Error: Developed (Filtered)                      0.4456 m
+Percentage: Filtered (w.r.t Literature)          5.1065%
+Real position with 5m Distance                   3.3333 m, 1.6667 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                0.9937 m
+Error: Developed (Filtered)                      0.9549 m
+Percentage: Filtered (w.r.t Literature)          3.9121%
+Real position with 1m Distance                   0.6667 m, 0.3333 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.2443 m
+Error: Developed (Filtered)                      0.2843 m
+Percentage: Filtered (w.r.t Literature)          -16.3656%
+Real position with 3m Distance                   2.0000 m, 1.0000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.5464 m
+Error: Developed (Filtered)                      0.5215 m
+Percentage: Filtered (w.r.t Literature)          4.5532%
+Real position with 5m Distance                   3.3333 m, 1.6667 m
+Estimated Location Literature:                   2.5241 m, 2.2435 m
+Estimated Location  Developed: Filtered          2.5071 m, 2.1453 m
+Estimated Location  Developed: Weighted          2.9756 m, 0.7860 m
+Error: Literature                                0.9937 m
+Error: Developed (Filtered)                      0.9549 m
+Percentage: Filtered (w.r.t Literature)          3.9121%
+Real position with 1m Distance                   0.6667 m, 0.3333 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.2443 m
+Error: Developed (Filtered)                      0.2843 m
+Percentage: Filtered (w.r.t Literature)          -16.3656%
+Real position with 3m Distance                   2.0000 m, 1.0000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.5464 m
+Error: Developed (Filtered)                      0.5215 m
+Percentage: Filtered (w.r.t Literature)          4.5532%
+Real position with 5m Distance                   3.3333 m, 1.6667 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                1.1117 m
+Error: Developed (Filtered)                      1.1121 m
+Percentage: Filtered (w.r.t Literature)          -0.0365%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
+Real position with 1m Distance                   0.5000 m, 0.5000 m
+Estimated Location Literature:                   0.5101 m, 0.1459 m
+Estimated Location  Developed: Filtered          0.5074 m, 0.0979 m
+Estimated Location  Developed: Weighted          0.5990 m, 0.1093 m
+Error: Literature                                0.3543 m
+Error: Developed (Filtered)                      0.4022 m
+Percentage: Filtered (w.r.t Literature)          -13.5302%
+Real position with 3m Distance                   1.5000 m, 1.5000 m
+Estimated Location Literature:                   1.4721 m, 1.1408 m
+Estimated Location  Developed: Filtered          1.4833 m, 1.0705 m
+Estimated Location  Developed: Weighted          1.5794 m, 0.4146 m
+Error: Literature                                0.3603 m
+Error: Developed (Filtered)                      0.4299 m
+Percentage: Filtered (w.r.t Literature)          -19.2988%
+Real position with 5m Distance                   2.5000 m, 2.5000 m
+Estimated Location Literature:                   2.4914 m, 2.3926 m
+Estimated Location  Developed: Filtered          2.4739 m, 2.3725 m
+Estimated Location  Developed: Weighted          2.8491 m, 1.1232 m
+Error: Literature                                0.1077 m
+Error: Developed (Filtered)                      0.1302 m
+Percentage: Filtered (w.r.t Literature)          -20.8371%
